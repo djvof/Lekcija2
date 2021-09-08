@@ -27,7 +27,7 @@ namespace Homework
             int num2 = int.Parse(Console.ReadLine());
             Console.WriteLine("Ievadiet otro skaitli ?");
             Console.WriteLine("lielākais skaitlis : " + Math.Min(num2, int.Parse(Console.ReadLine())));
-
+            
             Console.WriteLine("------------  5.uzdevums - % ------------------");
             Console.WriteLine("Ievadiet pirmo skaitli ?");
             int num3 = int.Parse(Console.ReadLine());
