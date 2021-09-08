@@ -69,7 +69,7 @@ namespace Classwork
             Console.WriteLine("-= : " + (myNumber9 -= 10));
 
             Console.WriteLine("------ Console ReadLine: ----------------");
-             
+              
             Console.WriteLine("Kāds ir tavs Vārds?");
             //string answer = Console.ReadLine();
             //Console.WriteLine("Answer: " + answer );
