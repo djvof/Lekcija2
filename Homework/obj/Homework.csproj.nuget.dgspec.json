@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework\\Homework.csproj": {}
+    "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework\\Homework.csproj": {
+    "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework\\Homework.csproj",
+        "projectPath": "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\LU_C_maciba\\lekcija_2\\Homework\\Homework\\obj\\",
+        "outputPath": "C:\\LU_C_maciba\\lekcija_2\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
