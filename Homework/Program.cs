@@ -14,7 +14,8 @@ namespace Homework
             Console.WriteLine("------------ 2. uzdevums - int.Parse ------------------");
             Console.WriteLine("Kāds ir tavs vecums?");
             int age = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nākamgad tev paliks " + (age++) + ", Tu esi pilngadīgs.");
+            int newage = ++age;
+            Console.WriteLine("Nākamgad tev paliks " + newage + ", Tu "+(newage >=18 ? "" :"ne")  +"esi pilngadīgs.");
 
             Console.WriteLine("------------ 3. uzdevums - Math.Max salidzinājums------------------");
             Console.WriteLine("Ievadiet pirmo skaitli ?");
